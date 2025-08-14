@@ -23,3 +23,8 @@ npm install
 4. Start the development server
 
 npm run dev
+
+## 📸 Preview
+
+![Homepage Screenshot](public/homepage.png)
+
