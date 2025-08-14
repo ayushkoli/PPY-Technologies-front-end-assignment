@@ -28,3 +28,6 @@ npm run dev
 
 ![Homepage Screenshot](public/homepage.png)
 
+![Homepage Dark Screenshot](public/homepagedark.png)
+
+
